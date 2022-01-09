@@ -8,19 +8,29 @@
   </head>
   <body>
 
-Welcome to the LILIUM™
-   <br><hr>
-<center>
+<strong><p align="center">Welcome to the LILIU (LILI) project</p></strong>
+ <hr>
+    <div>
+      What is LILI?<br>
+      There is fake news. And, there are fake certifications. If you ever hire a freshgrad, you know the whole hiring process can be slow and painful one. How do you verify the new hire certification is genuine? You would need to contact the school one by one.
+<br>
+Imagine a world where certifications were written securely, where they could not be deleted or changed. Now, sharing them with employers for recruitment becomes transparent and easy. Smartchain offers this solution for digital educational certificates.
+    </div>
+    <hr>
+<p align="center">
   <img src="https://raw.githubusercontent.com/hamdielhamdi/lilium-page/main/Solana_QR.png" alt="Italian Trulli" width="250" 
      height="250">
   <br><br>
 9JkBvvJ1Csjqz8hc9gTksZe2WaKKUAFKPxCU3kjo9pha
-</center>
-    <br><hr>
+</p>
+   <hr>
     <div>
 In order to receive LILIUM Tokens please send EXACTLY 0,03 SOLANA  to the provided address above, when you do, we will then return 10000 LILI.<br>
-Note : the processing time can be more then 5 min in some cases.
-
+Note : the processing time can be more then 5 min in some cases.(but surly les then 15min, so don't panic)
+<hr>
+<footer>
+<p align="center">LILIUM™</p>
+</footer>
  </div>
   </body>
 </html>

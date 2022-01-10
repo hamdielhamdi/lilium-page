@@ -14,7 +14,7 @@
       What is LILI?<br>
       There is fake news. And, there are fake certifications. If you ever hire a freshgrad, you know the whole hiring process can be slow and painful one. How do you verify the new hire certification is genuine? You would need to contact the school one by one.
 <br>
-Imagine a world where certifications were written securely, where they could not be deleted or changed. Now, sharing them with employers for recruitment becomes transparent and easy. Smartchain offers this solution for digital educational certificates.
+Imagine a world where certifications were written securely, where they could not be deleted or changed. Now, sharing them with employers for recruitment becomes transparent and easy. Lilium-lili offers this solution for digital educational certificates.
     </div>
     <hr>
 <p align="center">

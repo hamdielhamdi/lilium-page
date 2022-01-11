@@ -8,7 +8,7 @@
   </head>
   <body>
 
-<strong><p align="center">Welcome to the LILIU (LILI) project</p></strong>
+<strong><p align="center">Welcome to the LILIUM (LILI) project</p></strong>
  <hr>
     <div>
       What is LILI?<br>
